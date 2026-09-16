@@ -103,10 +103,11 @@ not redistributed. Provider references and frozen-file fingerprints are listed
 in [`paper/DATA_PROVENANCE.md`](paper/DATA_PROVENANCE.md). Fresh downloads can
 differ from the historical snapshots used for Version 1.0.
 
-Software is released under the [MIT licence](LICENSE). The research note and
-text documentation use
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Third-party data
-remain subject to their source terms.
+Software and notebook code cells are released under the
+[MIT licence](LICENSE). Original research prose, explanatory text, figures and
+aggregate result tables use the
+[Creative Commons Attribution 4.0 International licence](LICENSE-CC-BY-4.0.md).
+Third-party data remain subject to their source terms.
 
 ## Citation
 
