@@ -1,0 +1,52 @@
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and scratch space
+.venv/
+venv/
+.deps/
+tmp/
+
+# Third-party and locally frozen input data are not redistributed
+/daily_data/
+/not_ready_or_daily_data/
+/outputs/paper/data/
+
+# Generated smoke/legacy checks and executed notebook copies
+outputs/paper/smoke/
+outputs/paper/legacy_check/
+paper/EDA_article_executed.ipynb
+
+# Row-level panels and predictions derived from restricted source snapshots
+/outputs/paper/common_panel_long.csv
+/outputs/paper/common_panel_wide.csv
+/outputs/paper/hupin/final_test_predictions.csv
+/outputs/paper/quantile_joint/final_test_predictions.csv
+
+# Local dissertation-era outputs/configs (the notebook/PDF archive is retained)
+/outputs/comparisons/
+/outputs/data/
+/outputs/eda/
+/outputs/hupin/
+/outputs/lstm/
+/outputs/martingale/
+/outputs/pu_lstm/
+/outputs/quantile_joint/
+/LSTM/
+/LSTM_best_Huber_Beta/
+/LSTM_HuPin/
+/PU_LSTM/
+
+# Reproducible but bulky binary duplicates/checkpoints
+*.darts
+*.ckpt
+*.pt
+*.parquet
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

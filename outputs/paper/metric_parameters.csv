@@ -1,0 +1,19 @@
+Model,Ticker,eps_err,z-threshold,threshold_reason,z_reference_n,eps_source,z_source
+LSTM_HuPin,0,0.01,-0.01165119696862251,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+LSTM_HuPin,1,0.01,-0.051064003225915866,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+LSTM_HuPin,2,0.01,-0.02130270768461552,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+LSTM_HuPin,3,0.01,-0.06274409576999228,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+LSTM_HuPin,4,0.01,-0.012919318467989736,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+LSTM_HuPin,All,0.01,,pooled from ticker-specific BMR_Z counts,11470,user-defined constant in daily log-return units,micro-pooled from the common ticker-specific train-only thresholds
+Quantile,0,0.01,-0.01165119696862251,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Quantile,1,0.01,-0.051064003225915866,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Quantile,2,0.01,-0.02130270768461552,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Quantile,3,0.01,-0.06274409576999228,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Quantile,4,0.01,-0.012919318467989736,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Quantile,All,0.01,,pooled from ticker-specific BMR_Z counts,11470,user-defined constant in daily log-return units,micro-pooled from the common ticker-specific train-only thresholds
+Martingale,0,0.01,-0.01165119696862251,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Martingale,1,0.01,-0.051064003225915866,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Martingale,2,0.01,-0.02130270768461552,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Martingale,3,0.01,-0.06274409576999228,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Martingale,4,0.01,-0.012919318467989736,,2294,user-defined constant in daily log-return units,full corrected pre-test train; ticker-specific and model-independent; Z=2
+Martingale,All,0.01,,pooled from ticker-specific BMR_Z counts,11470,user-defined constant in daily log-return units,micro-pooled from the common ticker-specific train-only thresholds

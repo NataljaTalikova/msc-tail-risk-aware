@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software or the Bear Miss Rate implementation, please cite the Version 1.0 research note."
+title: "MSc Tail-Risk-Aware Forecast Evaluation and Bear Miss Rates"
+type: software
+authors:
+  - family-names: "Talikova"
+    given-names: "Natalja"
+    orcid: "https://orcid.org/0009-0007-5651-4835"
+repository-code: "https://github.com/NataljaTalikova/msc-tail-risk-aware"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-16
+abstract: >-
+  Reproducible code and evidence for an integrated Bear Miss Rate diagnostic
+  design for optimistic loss-day forecast errors, material optimistic errors,
+  and missed train-defined severe-return events.
+keywords:
+  - forecast evaluation
+  - downside risk
+  - Bear Miss Rate
+  - financial time series
+preferred-citation:
+  type: report
+  authors:
+    - family-names: "Talikova"
+      given-names: "Natalja"
+      orcid: "https://orcid.org/0009-0007-5651-4835"
+  title: "Bear Miss Rates for Downside Forecast Evaluation: Materiality, Empirical Evidence and Research Directions"
+  year: 2026

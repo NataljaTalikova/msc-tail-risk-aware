@@ -1,0 +1,25 @@
+{
+  "purpose": "Medium-ready three-model evidence pack",
+  "models": [
+    "Martingale",
+    "Median Quantile",
+    "HuPin LSTM"
+  ],
+  "metrics": [
+    "RMSE",
+    "test R\u00b2",
+    "BMR",
+    "BMR_tol",
+    "BMR_Z"
+  ],
+  "files": {
+    "central_metrics.csv": "Pooled conventional metrics",
+    "bmr_metrics.csv": "Pooled BMR values and count denominators",
+    "all_metrics_by_ticker.csv": "Full pooled and per-ticker audit table",
+    "results_table.md": "Copy-ready Markdown results table",
+    "central_metrics.png": "Conventional-metric figure",
+    "bmr_family.png": "Main BMR-family figure",
+    "per_ticker_r2_heatmap.png": "Per-security diagnostic figure",
+    "README.md": "Artifact guide and provenance"
+  }
+}

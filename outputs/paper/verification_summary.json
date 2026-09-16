@@ -1,0 +1,38 @@
+{
+  "status": "passed",
+  "train_rows": 11470,
+  "forecast_context_rows": 25,
+  "test_rows": 1575,
+  "prediction_outputs": {
+    "LSTM_HuPin": {
+      "rows": 1575,
+      "first_date": "2024-04-22",
+      "last_date": "2025-07-18"
+    },
+    "Quantile": {
+      "rows": 1575,
+      "first_date": "2024-04-22",
+      "last_date": "2025-07-18"
+    }
+  },
+  "tuning": {
+    "hupin": {
+      "successful": 48,
+      "failed": 0
+    },
+    "quantile_joint": {
+      "successful": 4,
+      "failed": 0
+    }
+  },
+  "bmr_tolerance": 0.01,
+  "bmr_z_thresholds": {
+    "0": -0.0116511969686225,
+    "1": -0.0510640032259158,
+    "2": -0.0213027076846155,
+    "3": -0.0627440957699922,
+    "4": -0.0129193184679897
+  },
+  "common_panel_rows_per_model": 1575,
+  "metric_recalculation": "all five metrics reproduced directly from common_panel_long.csv"
+}

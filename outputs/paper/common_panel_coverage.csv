@@ -1,0 +1,3 @@
+model,n_predictions_before_intersection,first_target_date,last_target_date,n_common,common_first_target_date,common_last_target_date
+LSTM_HuPin,1575,2024-04-22,2025-07-18,1575,2024-04-22,2025-07-18
+Quantile,1575,2024-04-22,2025-07-18,1575,2024-04-22,2025-07-18

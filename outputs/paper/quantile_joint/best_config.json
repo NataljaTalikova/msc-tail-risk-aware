@@ -1,0 +1,17 @@
+{
+  "model": "quantile_joint",
+  "best_config": {
+    "alpha": 0.0001,
+    "lookback": 60,
+    "tau": 0.5
+  },
+  "refit_epochs": 1,
+  "selection_objective": "minimum pooled validation RMSE",
+  "validation": {
+    "rmse": 0.0212293773154975,
+    "tail_precision": null,
+    "tail_recall": 0.0,
+    "tail_f2": null,
+    "n": 1145
+  }
+}

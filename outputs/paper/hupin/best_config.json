@@ -1,0 +1,21 @@
+{
+  "model": "hupin",
+  "best_config": {
+    "dropout": 0.2,
+    "hidden_dim": 64,
+    "huber_beta": 0.05,
+    "lambda_pin": 0.5,
+    "lookback": 90,
+    "n_layers": 2,
+    "tau": 0.05
+  },
+  "refit_epochs": 19,
+  "selection_objective": "max tail F2 subject to validation precision >= 0.30; RMSE tie-break",
+  "validation": {
+    "rmse": 0.0256834076536589,
+    "tail_precision": 0.3076923076923077,
+    "tail_recall": 0.056338028169014,
+    "tail_f2": 0.0673400673400673,
+    "n": 1145
+  }
+}

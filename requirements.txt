@@ -1,0 +1,21 @@
+# Tested article environment (Python 3.11, Windows, CPU execution)
+# Install into an active environment: python -m pip install -r requirements.txt
+darts==0.37.1
+dieboldmariano==1.1.0
+joblib==1.5.0
+jupyter==1.1.1
+matplotlib==3.10.1
+nbconvert==7.16.6
+numpy==1.26.4
+openpyxl==3.1.5
+pandas==2.2.3
+pyarrow==21.0.0
+pytorch-lightning==2.5.2
+scikit-learn==1.7.1
+scipy==1.16.2
+seaborn==0.13.2
+statsmodels==0.14.4
+ta==0.11.0
+torch==2.7.1
+xgboost==3.0.4
+yfinance==0.2.58
