@@ -15,7 +15,7 @@ meaningful adverse direction.
 
 - **Research note:** the Zenodo DOI will be added after publication.
 - **Medium article:** the public article link will be added after publication.
-- **Code release:** the reviewed repository snapshot will be tagged `v1.0.0`.
+- **Code release:** [v1.0.0](https://github.com/NataljaTalikova/msc-tail-risk-aware/releases/tag/v1.0.0).
 
 ## The three diagnostics
 
