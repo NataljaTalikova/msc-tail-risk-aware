@@ -16,7 +16,7 @@ meaningful adverse direction.
 
 ## Research outputs
 
-- **Research note:** the Zenodo DOI will be added after publication.
+- **Research note:** [https://doi.org/10.5281/zenodo.22801918](https://doi.org/10.5281/zenodo.22801918)
 - **Medium article:** the public article link will be added after publication.
 - **Code release:** [v1.0.0](https://github.com/NataljaTalikova/msc-tail-risk-aware/releases/tag/v1.0.0).
 
