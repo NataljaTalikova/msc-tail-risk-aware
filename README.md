@@ -2,6 +2,9 @@
 
 **Author:** [Natalja Talikova](https://orcid.org/0009-0007-5651-4835), Independent Researcher
 
+**Licences:** [MIT for software and notebook code](LICENSE) ·
+[CC BY 4.0 for original research text, figures and aggregate tables](LICENSE-CC-BY-4.0.md)
+
 This repository develops the Bear Miss Rate (BMR) approach introduced in the
 author's MSc dissertation. BMR supplements central forecast-accuracy measures
 by showing how often a point forecast is too optimistic when a loss occurs.
